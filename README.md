@@ -94,6 +94,32 @@
       <br>Postman
     </td>
   </tr>
+   <tr>
+      <td align="center" width="96">
+      <a href="#FastAPI" >
+        <img src="https://w7.pngwing.com/pngs/141/126/png-transparent-fastapi-hd-logo-thumbnail.png" width="48" height="48" alt="fastapi" />
+      </a>
+      <br>FastAPI
+    </td>
+      <td align="center" width="96">
+      <a href="#Docker" >
+        <img src="https://w7.pngwing.com/pngs/991/165/png-transparent-docker-hd-logo-thumbnail.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+      <td align="center"  width="96">
+      <a href="#NumPy">
+        <img src="https://www.dlf.pt/dfpng/middlepng/443-4431745_rougier-numpy-logo-name-below-02-python-numpy.png" width="48" height="48" alt="NumPy" />
+      </a>
+      <br>NumPy
+    </td>
+      <td align="center" width="96">
+      <a href="#Pandas" >
+        <img src="https://www.cilans.net/wp-content/uploads/2019/12/Python-Pandas-logo.png" width="48" height="48" alt="Pandas" />
+      </a>
+      <br>Pandas
+    </td>
+  </tr>
 </table>
 
 ## Статистика GitHub
