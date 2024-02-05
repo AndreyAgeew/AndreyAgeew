@@ -2,7 +2,7 @@
 
 ## О себе
 
-- 🎓 Обучаюсь на Python Developer в [Skypro](https://sky.pro/courses/programming/python-web-course)
+-    Python Developer
 - 🏡 Проживаю в Москве.
 
 ## Свяжитесь со мной
