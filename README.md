@@ -1,15 +1,14 @@
-# Привет, меня зовут Андрей!
+# Hello, my name is Andrey!
 
-## О себе
+## About Me
 
-Я - Андрей Агеев, 30-летний Python разработчик из Москвы. Страстный к изучению и применению новых технологий, я постоянно работаю над расширением своих знаний и навыков в программировании. Мои проекты отражают мою способность к самостоятельному обучению и интерес к разнообразным аспектам бэкенд-разработки.
+- <b>Innovative Problem Solver 🧠:</b> Expertise in devising creative solutions to complex technical challenges.
+- <b>Effective Team Player 👥:</b> Collaborative and communicative, with a proven track record of working effectively in team environments.
+- <b>Adaptable Learner 📚:</b> Quick to adapt to new programming languages and frameworks, demonstrating flexibility and eagerness to learn.
+- <b>Detail-Oriented 🔍:</b> Meticulous attention to detail, ensuring high-quality code and efficient problem resolution.
+- <b>Strong Analytical Skills 💡:</b> Excellent at analyzing requirements and translating them into robust software solutions.
 
-- 🌍 Местоположение: Москва, готов к переезду и командировкам.
-- 🌟 Специализация: Разработчик Python с опытом работы 1 год.
-- 🚀 Занятость: Ищу работу с полной занятостью, открыт к стажировкам.
-
-
-## Свяжитесь со мной
+## Contact Me
 
 <p align="center">
 	<a href="mailto:faceofdeviler@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -17,7 +16,7 @@
 	<a href="https://wa.me/79099213823"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 </p>
 
-## Мои навыки
+## My Skills
 <table align="center">
   <tr>
       <td align="center" width="96">
@@ -126,7 +125,7 @@
   </tr>
 </table>
 
-## Статистика GitHub
+## GitHub Statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreyAgeew&theme=slateorange)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreyAgeew&theme=slateorange)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndreyAgeew&theme=slateorange)
